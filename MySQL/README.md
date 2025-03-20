@@ -1,4 +1,4 @@
-# SQL Commands and Queries
+# SQL Commands and Queries by Shradha Khapra(Apna College)
 
 This repository contains various SQL commands and queries for database management, schema design, data manipulation, and data retrieval. The goal is to provide a structured and practical reference for working with SQL.
 
